@@ -1,0 +1,175 @@
+@media screen and (max-width: 1024px) {
+
+body{
+	width:100%;
+	
+	}
+	
+#contain{
+
+
+	width:100%;
+	background-size:100% 100% ;
+	
+}
+
+#header {
+	width:100%;
+	background-size:100% 100% ;
+	
+}
+
+#body9 {
+width:60%;	
+}
+
+#fotter5 {
+	width:97%;
+	background-size:100% 100% ;
+}
+	
+#control_word {
+
+	background-size:100% 100% ;
+	float:right;
+}
+
+#body6 {
+    margin-left:202px;
+	margin-top:70px;	
+	width:70%;
+}
+
+#leftside{
+width:50%;	
+}
+
+#rside{
+	width:50%;
+}
+
+#butt{
+	width:70%;
+}
+
+#butt2{
+	width:70%;
+}
+
+#buttword{
+	width:80%;
+}
+
+}
+
+#menu {
+float:right;
+background-size:100% 100% ;	
+}
+
+#nav1 {
+	margin-top:0px;
+	background-size:100% 100% ;	
+}
+
+#nav1:hover {
+margin-top:0px;
+	background-size:100% 100% ;
+}
+#body2 {
+width:70%;
+margin-left:100px;
+margin-top:100px;	
+}
+
+
+@media screen and (max-width: 700px) {
+	
+#body9 {
+
+margin-left:150px;	
+}
+	
+#submit5 {
+	width:40%;
+}
+
+#body6 {
+    margin-left:50px;
+	margin-top:70px;	
+	width:80%;
+}
+#buttword{
+font-size:17px;
+}
+
+#tabmak{
+
+
+	margin-left:0px;
+	width:20%;
+}
+#submak55{
+margin-left:0px; 
+	
+}
+
+#body2 {
+width:80%;
+margin-left:70px;	
+}
+
+}
+
+@media screen and (max-width: 480px) {
+	
+#body9 {
+width:80%;
+margin-left:40px;	
+}
+
+
+#header {
+	
+	background-size:100% 70% ;
+	
+}
+
+#buttword{
+font-size:10px;
+}
+
+#body6 {
+    margin-left:20px;
+	margin-top:70px;	
+	width:80%;
+}
+
+#body2 {
+width:80%;
+margin-left:0px;	
+}
+
+#tabmak{
+
+
+	margin-left:0px;
+	width:400px;
+}
+
+#menu {
+float:right;
+background-size:50% 100% ;	
+}
+
+#nav1 {
+	margin-top:0px;
+	background-size:50% 100% ;	
+}
+
+#nav1:hover {
+margin-top:0px;
+	background-size:50% 100% ;
+}
+
+}
